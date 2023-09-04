@@ -31,6 +31,9 @@ class _ForgetScreenState extends State<ForgetScreen> {
                 fit: BoxFit.fitWidth,
               ),
             ),
+            SizedBox(
+              height: 20,
+            ),
             Container(
               width: double.infinity,
               child: Text(
