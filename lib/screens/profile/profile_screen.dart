@@ -139,7 +139,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                         crossAxisAlignment: CrossAxisAlignment.center,
                         children: [
                           Container(
-                            padding: EdgeInsets.all(8.0),
+                            padding: EdgeInsets.all(6.0),
                             child: profileItem[index]["Icon"],
                           ),
                           Expanded(
