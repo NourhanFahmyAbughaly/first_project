@@ -53,6 +53,9 @@ class _ForgetScreenState extends State<ForgetScreen> {
                     fontSize: 15),
               ),
             ),
+            SizedBox(
+              height: 20,
+            ),
             Container(
               alignment: Alignment.topLeft,
               child: Text(
@@ -86,6 +89,9 @@ class _ForgetScreenState extends State<ForgetScreen> {
                 ),
               ),
             ),
+            SizedBox(
+              height: 20,
+            ),
             Container(
               margin: EdgeInsets.only(top: 10, bottom: 10),
               width: double.infinity,
@@ -107,6 +113,9 @@ class _ForgetScreenState extends State<ForgetScreen> {
                       fontSize: 20),
                 ),
               ),
+            ),
+            SizedBox(
+              height: 20,
             ),
             Container(
               margin: EdgeInsets.only(bottom: 20),
