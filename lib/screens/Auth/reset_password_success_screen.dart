@@ -22,7 +22,7 @@ class _ResetPasswordSuccessScreenState
               padding: EdgeInsets.symmetric(horizontal: 20),
               alignment: Alignment.center,
               child: Image.asset(
-                "assets/Reset password-amico 1.png",
+                "assets/Enthusiastic-amico 1.png",
                 fit: BoxFit.fitWidth,
               ),
             ),
