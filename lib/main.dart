@@ -1,6 +1,7 @@
 import 'package:first_project/screens/profile/change_password_screen.dart';
 import 'package:first_project/screens/profile/edit_profile_screen.dart';
 import 'package:first_project/screens/profile/security_screen.dart';
+import 'package:first_project/screens/profile/verify_success_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -20,6 +21,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: ChangePasswordScreen());
+        home: VerfiySuccessScreen());
   }
 }
